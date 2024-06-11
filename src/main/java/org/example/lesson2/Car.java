@@ -1,3 +1,5 @@
+package org.example.lesson2;
+
 import java.util.ArrayList;
 
 public class Car {

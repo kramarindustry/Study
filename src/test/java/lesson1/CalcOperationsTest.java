@@ -1,3 +1,5 @@
+package lesson1;
+
 import org.example.lesson1.CalcOperations;
 import org.junit.Test;
 
